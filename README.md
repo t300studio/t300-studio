@@ -141,16 +141,19 @@ Planned improvements include:
 Development priorities may change based on testing results and user feedback.
 
 ---
+## ❤️ Support T300 Studio
 
-## ❤️ Support Development
+T300 Studio is, and always will be, completely free.
 
-T300 Studio is developed as a free community project.
+I'm developing this project because I want Thrustmaster owners to have a better software experience.
 
-My long-term goal is to acquire additional Thrustmaster wheels for physical compatibility testing, helping make the application safer and more reliable for more users.
+My long-term goal is to expand support to more Thrustmaster wheels. However, physically testing each model requires access to the actual hardware.
 
-Donations may be introduced as an entirely optional way to support hardware testing.
+If you'd like to help fund additional wheels for compatibility testing, you can optionally support the project here:
 
-**The software will remain free.**
+☕ **[Support T300 Studio on Buy Me a Coffee](https://buymeacoffee.com/deethrustmaster)**
+
+Every contribution is appreciated, but there's absolutely no obligation to donate. Your feedback and suggestions are just as valuable! ❤️
 
 ---
 
